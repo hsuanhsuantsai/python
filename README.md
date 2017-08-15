@@ -3,6 +3,14 @@ Basic exercises to get familiar with python packages
 
 ***
 
+## [20170814] list_saved_searches.py
+* Usage: python list_saved_searches.py  
+  e.g. python list_saved_searches.py  
+  e.g. python list_saved_searches.py -f custom.xlsx
+* Description:  
+  Given splunkd account (Splunk local account), try to do a brief backup of reports with Splunk python SDK and store info into an excel spreadsheet
+***
+
 ## [20170810] options.py
 * Usage: python options.py <original cost>  
   e.g. python options.py 50   
